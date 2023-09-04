@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "antd": "^4.24.8",
-    "recharts": "^2.4.3"
-  }
-}
